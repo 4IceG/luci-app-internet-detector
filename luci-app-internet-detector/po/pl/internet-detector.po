@@ -1,0 +1,227 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Alive interval"
+msgstr "Odstęp czasu między kolejnymi uruchomieniami"
+
+msgid "An error has occurred"
+msgstr "Wystąpił błąd"
+
+msgid "Check type"
+msgstr "Metoda sprawdzania"
+
+msgid "Checking Internet availability."
+msgstr "Sprawdzanie dostępności Internetu."
+
+msgid "Collecting data..."
+msgstr "Zbieranie danych..."
+
+msgid "Command failed"
+msgstr "Polecenie nie powiodło się"
+
+msgid "Connected"
+msgstr "Połączony z internetem"
+
+msgid "Connection attempts"
+msgstr "Próby połączenia"
+
+msgid "Connection timeout"
+msgstr "Czas oczekiwania na połączenie"
+
+msgid "Connections"
+msgstr "Połączenia"
+
+msgid "Contents have been saved."
+msgstr "Zawartość została zapisana."
+
+msgid "Dead interval"
+msgstr "Odstęp czasu bez odpowiedzi"
+
+msgid "Default port value for TCP connections"
+msgstr "Domyślna wartość portu dla połączeń TCP"
+
+msgid "Disabled"
+msgstr "Wyłączone"
+
+msgid "Disabled: detector is completely off"
+msgstr "Wyłączone: detektor jest całkowicie wyłączony"
+
+msgid "Disconnected"
+msgstr "Brak dostępu do internetu"
+
+msgid "Dismiss"
+msgstr "Odrzuć"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Edit down-script"
+msgstr "Edytuj down-script"
+
+msgid "Edit run-script"
+msgstr "Edytuj run-script"
+
+msgid "Edit up-script"
+msgstr "Edytuj up-script"
+
+msgid "Enable down-script"
+msgstr "Włącz down-script"
+
+msgid "Enable logging"
+msgstr "Włącz logowanie"
+
+msgid "Enable run-script"
+msgstr "Włącz run-script"
+
+msgid "Enable up-script"
+msgstr "Włącz up-script"
+
+msgid "Enabled"
+msgstr "Włączony"
+
+msgid "Execute commands every time the Internet is checked for availability"
+msgstr "Wykonuj polecenia za każdym razem, gdy Internet jest sprawdzany pod kątem dostępności"
+
+msgid "Execute commands when the Internet is connected"
+msgstr "Wykonuj polecenia, gdy Internet jest podłączony"
+
+msgid "Execute commands when the Internet is disconnected"
+msgstr "Wykonuj polecenia, gdy Internet jest rozłączony"
+
+msgid "Failed to get %s init status: %s"
+msgstr "Nie udało się uzyskać statusu inicjalizacji %s: %s"
+
+msgid "Host availability check type"
+msgstr "Sprawdzanie dostępności hosta"
+
+msgid "Hosts"
+msgstr "Hosty"
+
+msgid "Hosts polling interval when the Internet is down"
+msgstr "Częstotliwość odpytywania hostów, gdy Internet jest wyłączony"
+
+msgid "Hosts polling interval when the Internet is up"
+msgstr "Częstotliwość odpytywania hostów, gdy Internet jest włączony"
+
+msgid "Hosts to check Internet availability. Hosts are polled (in list order) until at least one of them responds"
+msgstr "Hosty do sprawdzania dostępności Internetu. Hosty są odpytywane (w kolejności listy), dopóki przynajmniej jeden z nich nie odpowie"
+
+msgid "Internet"
+msgstr "Status połączenia internetowego"
+
+msgid "Internet detector"
+msgstr "Detektor internetu"
+
+msgid "Internet detector mode"
+msgstr "Tryb działania detektora"
+
+msgid "Internet status"
+msgstr "Status połączenia internetowego"
+
+msgid "Loading"
+msgstr "Ładowanie"
+
+msgid "Main settings"
+msgstr "Ustawienia główne"
+
+msgid "Maximum timeout for waiting for a response from the host"
+msgstr "Maksymalny limit czasu oczekiwania na odpowiedź od hosta"
+
+msgid "Maximum number of attempts to connect to each host"
+msgstr "Maksymalna liczba prób połączenia z każdym hostem"
+
+msgid "Ping host"
+msgstr "Ping hosta"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "Restart service"
+msgstr "Uruchom ponownie usługę"
+
+msgid "Run service at startup"
+msgstr "Uruchom usługę przy starcie"
+
+msgid "Running"
+msgstr "Działa"
+
+msgid "Service"
+msgstr "Usługa"
+
+msgid "Service action failed \"%s %s\": %s"
+msgstr "Akcja usługi nie powiodła się \"%s %s\": %s"
+
+msgid "Service configuration"
+msgstr "Konfiguracja usługi"
+
+msgid "Service: detector always runs as a system service"
+msgstr "Usługa: detektor zawsze działa jako usługa systemowa"
+
+msgid "Shell commands that are executed every time the Internet is checked for availability"
+msgstr "Polecenia powłoki, które są wykonywane za każdym razem, gdy Internet jest sprawdzany pod kątem dostępności"
+
+msgid "Shell commands that run when connected to the Internet"
+msgstr "Polecenia powłoki, które są uruchamiane po podłączeniu do Internetu"
+
+msgid "Shell commands to run when disconnected from the Internet"
+msgstr "Polecenia powłoki do uruchomienia po odłączeniu od Internetu"
+
+msgid "Stopped"
+msgstr "Zatrzymano"
+
+msgid "TCP port"
+msgstr "Port TCP"
+
+msgid "TCP port connection"
+msgstr "Połączenie z portem TCP"
+
+msgid "UI detector configuration"
+msgstr "Konfiguracja UI detektora"
+
+msgid "Unable to read the contents"
+msgstr "Nie można odczytać zawartości"
+
+msgid "Unable to save the contents"
+msgstr "Nie można zapisać zawartości"
+
+msgid "Undefined"
+msgstr "Nieokreślony"
+
+msgid "Web UI only"
+msgstr "Tylko Web UI"
+
+msgid "Web UI only: detector works only when the Web UI is open (UI detector)"
+msgstr "Tylko Web UI: detektor działa tylko wtedy, gdy Web UI jest otwarte (UI detektor)"
+
+msgid "Write messages to the system log"
+msgstr "Zapisuj wiadomości do dziennika systemowego"
+
+msgid "down-script"
+msgstr "down-script"
+
+msgid "min"
+msgstr "min"
+
+msgid "run-script"
+msgstr "run-script"
+
+msgid "sec"
+msgstr "sek"
+
+msgid "up-script"
+msgstr "up-script"
+
+msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> control"
+msgstr "Ustawienia <abbr title=\"Dioda elektroluminescencyjna\">LED</abbr>"
+
+msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> is on when Internet is available."
+msgstr "<abbr title=\"Dioda elektroluminescencyjna\">LED</abbr> jest włączona, gdy dostępny jest Internet."
+
+msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Name"
+msgstr "<abbr title=\"Dioda elektroluminescencyjna\">LED</abbr> Nazwa"
+
+msgid "Enable <abbr title=\"Light Emitting Diode\">LED</abbr> control"
+msgstr "Włącz diodę <abbr title=\"Dioda elektroluminescencyjna\">LED</abbr>"
+
+msgid "No <abbr title=\"Light Emitting Diode\">LED</abbr>s available..."
+msgstr "Nie <abbr title=\"Dioda elektroluminescencyjna\">LED</abbr> dostępna(e)..."
